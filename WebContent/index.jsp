@@ -8,7 +8,7 @@
 <title>Hello World Java EE</title>
 </head>
 <body>
-    <h1>Hello ... insert name below...!</h1>
+    <h1>Click "ServLet" one more time!</h1>
 <form action="helloServlet" method="post">
     Enter your name: <input type="text" name="yourName" size="20">
     <input type="submit" value="Call Servlet" />
